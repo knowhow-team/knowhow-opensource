@@ -3,6 +3,7 @@
 KnowHow 是一个创新的知识分享平台，致力于连接经验分享者与渴望学习的用户群体。我们的核心理念是"说出来，就是价值" - 让每个人的专业知识和经验都能创造价值。
 
 项目介绍网站：https://soulwinter.app/
+
 项目介绍视频：http://xhslink.com/m/8lVbgrRqKzd
 
 ![image-20250728142913724](images/image-20250728142913724.png)
