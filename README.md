@@ -4,7 +4,7 @@ KnowHow 是一个创新的知识分享平台，致力于连接经验分享者与
 
 ## 🌐 项目链接
 
-- **项目介绍网站**: https://soulwinter.app/
+- **项目介绍网站**: know-how-taupe.vercel.app
 - **项目介绍视频**: http://xhslink.com/m/8lVbgrRqKzd
 
 ## 🏗️ 项目架构
